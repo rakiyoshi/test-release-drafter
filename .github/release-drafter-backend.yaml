@@ -1,4 +1,4 @@
-_extends: guardrail:.github/release-drafter.yaml
+_extends: test-release-drafter:.github/release-drafter.yaml
 name-template: 'backend@v$RESOLVED_VERSION'
 tag-template: 'backend@v$RESOLVED_VERSION'
 tag-prefix: backend@v
