@@ -1,0 +1,6 @@
+_extends: guardrail:.github/release-drafter.yaml
+name-template: 'frontend@v$RESOLVED_VERSION'
+tag-template: 'frontend@v$RESOLVED_VERSION'
+tag-prefix: frontend@v
+include-paths:
+  - "frontend/"
