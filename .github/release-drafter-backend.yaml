@@ -4,3 +4,4 @@ tag-template: 'backend@v$RESOLVED_VERSION'
 tag-prefix: backend@v
 include-paths:
   - "backend/"
+  - "common.yaml"
