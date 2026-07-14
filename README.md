@@ -1,2 +1,2 @@
 # test-release-drafter
-test
+test!
